@@ -1,7 +1,12 @@
-# [application_Ticket](http://github.com/MatteoCharrin/application_Ticket)
+# [MonBlog](http://github.com/bpesquet/MonBlog)
 
-Auteur : [Mattéo Charrin](https://github.com/MatteoCharrin)
+Support de l'article [Evoluer vers une architecture MVC en PHP] (http://bpesquet.developpez.com/tutoriels/php/evoluer-architecture-mvc/)
+
+Auteur : [Baptiste Pesquet](https://github.com/bpesquet)
+
 
 ## Description
-* Cette application a été crée grace au site web crée par [Baptiste Pesquet](https://github.com/bpesquet) pour une application de blog 
-* Ici le code de base a été modifié pour etre adapter a un autre cas, le ticketing d'incident dans une entreprise   
+
+* Cette version initiale n'emploie pas l'architecture MVC.
+* Les autres versions sont disponibles sur les différentes branches du dépôt
+
